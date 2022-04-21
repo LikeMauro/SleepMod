@@ -1,8 +1,8 @@
 {
   "filename": "ModTemplate.dll",
-  "author": "Raicuparta",
-  "name": "Mod Template",
-  "uniqueName": "Raicuparta.ModTemplate",
+  "author": "LikeMauro",
+  "name": "Sleep Mod",
+  "uniqueName": "likemauro.sleepmod",
   "version": "0.1.0",
-  "owmlVersion": "2.3.2"
+  "owmlVersion": "2.3.3"
 }

@@ -1,8 +1,8 @@
 {
-  "filename": "ModTemplate.dll",
+  "filename": "SleepMod.dll",
   "author": "LikeMauro",
   "name": "Sleep Mod",
   "uniqueName": "likemauro.sleepmod",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "owmlVersion": "2.3.3"
 }

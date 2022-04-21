@@ -1,1 +1,1 @@
-Outer Wilds Meditation mod so you can skip talking to Gabro TWICE
+Outer Wilds Meditation mod (press "U" to meditate) so you can skip talking to Gabro TWICE
